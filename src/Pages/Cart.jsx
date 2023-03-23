@@ -113,7 +113,7 @@ const Cart = () => {
 
     <>
 
-      <Toptagline>You have {totalcartiteam} items</Toptagline>
+      <Toptagline>You ave {totalcartiteam} items</Toptagline>
 
 
       <Totalcartcontainer>
